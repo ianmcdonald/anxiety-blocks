@@ -1,7 +1,7 @@
 * Anxiety Blocks
 A web page for a trilogy of recordings, collectively called /Anxiety Blocks/, dating from 2008 to 2009. 
 
-The page allows a listener to play the pieces either in isolation, or any variety of simultaneous playback and any interval. It also provides a minimal visual accompaniment to the audio pieces. 
+The page allows a listener to play the pieces either in isolation, or any variety of simultaneous playback at any interval. It also provides a minimal visual accompaniment to the audio pieces. 
 
 All sounds were generated with a Roland SH-101 monophonic synthesizer, recorded direct-in style to computer, multi-tracked and mixed. 
 
