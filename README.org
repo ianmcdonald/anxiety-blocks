@@ -1,2 +1,15 @@
 * Anxiety Blocks
+A web page for a trilogy of recordings, collectively called /Anxiety Blocks/, dating from 2008 to 2009. 
 
+The page allows a listener to play the pieces either in isolation, or any variety of simultaneous playback and any interval. It also provides a minimal visual accompaniment to the audio pieces. 
+
+All sounds were generated with a Roland SH-101 monophonic synthesizer, recorded direct-in style to computer, multi-tracked and mixed. 
+
+*Anxiety Blocks*
+1. [57m51s]
+2. [56m42s]
+3. [56m32s]
+
+Composed, recorded, and mixed by Ian Mcdonald, 2008-2009.
+
+[[https://ianmcdonald.ca/anxiety-blocks/]] 
