@@ -31,6 +31,7 @@ var anxietyblocks = (function() {
                 }
             }
             document.addEventListener('DOMContentLoaded', setSize);
+            window.addEventListener('load', setSize);
             window.addEventListener('resize', setSize);
         }
     };
